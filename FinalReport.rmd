@@ -67,8 +67,8 @@ chisqtestGC(table1)
 fisher.test(table1)
 ```
 
-h$0 Considering that the p value is below 0.5 we will reject the null hypothesis
-h$a consdiering the p value is below 0.5 we will accept the alternative 
+$H_0$ Considering that the p value is below 0.5 we will reject the null hypothesis  
+$H_a$ consdiering the p value is below 0.5 we will accept the alternative   
 
 # Discussion and Conclusion
 
@@ -113,8 +113,8 @@ chisqtestGC(table2)
 fisher.test(table2)
 ```
 
-h$0 Considering that the p value is below 0.5 we will reject the null hypothesis
-h$a consdiering the p value is below 0.5 we will accept the alternative 
+$H_0$ Considering that the p value is below 0.5 we will reject the null hypothesis  
+$H_a$ consdiering the p value is below 0.5 we will accept the alternative   
 
 # Discussion and Conclusion
 
@@ -159,8 +159,8 @@ chisqtestGC(table3)
 fisher.test(table3)
 ```
 
-h$0 Considering that the p value is below 0.5 we will reject the null hypothesis
-h$a consdiering the p value is below 0.5 we will accept the alternative 
+$H_0$  Considering that the p value is below 0.5 we will reject the null hypothesis  
+$H_a$  consdiering the p value is below 0.5 we will accept the alternative   
 
 
 # Discussion and Conclusion
@@ -207,8 +207,8 @@ chisq.test(table4)
 chisqtestGC(table4)
 fisher.test(table4)
 ```
-h$0 Considering that the p value is below 0.5 we will reject the null hypothesis
-h$a consdiering the p value is below 0.5 we will accept the alternative 
+$H_0$ Considering that the p value is below 0.5 we will reject the null hypothesis  
+$H_a$ consdiering the p value is below 0.5 we will accept the alternative   
 
 
 # Discussion and Conclusion
@@ -255,8 +255,8 @@ chisqtestGC(table5)
 fisher.test(table5)
 ```
 
-h$0 Considering that the p value is below 0.5 we will reject the null hypothesis
-h$a consdiering the p value is below 0.5 we will accept the alternative 
+$H_0$ Considering that the p value is below 0.5 we will reject the null hypothesis  
+$H_a$ consdiering the p value is below 0.5 we will accept the alternative   
 
 # Discussion and Conclusion
 
